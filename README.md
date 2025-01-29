@@ -1,6 +1,6 @@
 # MCTracker
 A client tracker for massage therapists for Android 8. Use MCTracker for tracking and receiving
-payments from customers. View the documents for instructions. To login name: Massage Password:Therapist after installing 
+payments from customers. View the documents for instructions. To login name: Massage Password: Therapist after installing 
 on your device or simulator.
 
 ## Installation instructions for MCTracker.apk
